@@ -1,0 +1,178 @@
+{
+  "academy": {
+
+    "history": "SmartLearn Academy was established to provide quality education and academic support for students from Grade 9 to Grade 12. Our academy focuses on excellence, innovation, and personalized learning.",
+
+    "mission": "To empower students through innovative learning, expert guidance, and a supportive environment that helps students achieve their academic goals.",
+
+    "vision": "To become a leading educational institution recognized for academic excellence, student success, and lifelong learning opportunities.",
+
+    "awards": [
+      "🏆 Best Academic Excellence Award 2025",
+      "🥇 Outstanding Student Success Award",
+      "⭐ Top Coaching Institute Recognition"
+    ],
+
+    "courses": [
+
+      {
+        "grade": "Grade 9",
+        "title": "Grade 9 Foundation Program",
+        "description": "Designed to strengthen students' understanding of Mathematics and Science.",
+        "subjects": [
+          "Physics",
+          "Chemistry",
+          "Mathematics",
+          "Biology",
+          "Computer Science"
+        ],
+        "highlights": [
+        "Concept Building",
+        "Weekly Assessments",
+        "Doubt Clearing Sessions"
+      ]
+      },
+
+      {
+        "grade": "Grade 10",
+        "title": "Grade 10 Board Preparation",
+        "description": "Comprehensive coaching focused on board examination success.",
+        "subjects": [
+          "Physics",
+          "Chemistry",
+          "Mathematics",
+          "Biology",
+          "Computer Science"
+        ],
+        "highlights": [
+        "Board Exam Strategies",
+        "Mock Tests",
+        "Revision Sessions"
+      ]
+      },
+
+      {
+        "grade": "Grade 11",
+        "title": "Grade 11 Science Stream",
+        "description": "Specialized coaching for Science students.",
+        "subjects": [
+          "Physics",
+          "Chemistry",
+          "Mathematics",
+          "Biology",
+          "Computer Science"
+        ],
+        "highlights": [
+        "Expert Faculty",
+        "Weekly Tests",
+        "Problem Solving Sessions"
+      ]
+      },
+
+      {
+        "grade": "Grade 12",
+        "title": "Grade 12 Science Stream",
+        "description": "Intensive preparation for board examinations.",
+        "subjects": [
+          "Physics",
+          "Chemistry",
+          "Mathematics",
+          "Biology",
+          "Computer Science"
+        ],
+        "highlights": [
+        "Board Exam Preparation",
+        "Past Paper Discussions",
+        "Career Guidance"
+      ]
+      }
+
+    ],
+
+    "faculty": [
+
+    {
+      "name": "Ayaan Khan",
+      "subject": "Biology & Chemistry",
+      "experience": "15 Years",
+      "qualification": "MSc, B.Ed",
+      "image": "image/ayaan.jpeg"
+    },
+
+    {
+      "name": "Nandha Shimna",
+      "subject": "Chemistry",
+      "experience": "10 Years",
+      "qualification": "MSc, B.Ed",
+      "image": "image/nandha.jpeg"
+    },
+
+    {
+      "name": "Saya Santhosh",
+      "subject": "Mathematics",
+      "experience": "10 Years",
+      "qualification": "MSc, B.Ed",
+      "image": "image/saya.jpeg"
+    },
+
+    {
+      "name": "Alvina Shinoj",
+      "subject": "Computer Science",
+      "experience": "8 Years",
+      "qualification": "MCA, B.Ed",
+      "image": "image/alvina.jpeg"
+    },
+
+    {
+      "name": "Roshni Priya",
+      "subject": "Mathematics",
+      "experience": "7 Years",
+      "qualification": "MSc, B.Ed",
+      "image": "image/roshini.jpeg"
+    }
+
+],
+
+    "testimonials": [
+
+      {
+        "name": "Hrithika",
+        "type": "Student",
+        "comment": "Joining SmartLearn Academy was one of the best decisions I made during my Grade 12 journey. The teachers explained complex concepts in a simple and understandable way, and the regular assessments helped me stay confident before my board examinations. I was able to improve my grades significantly and achieve my academic goals."
+      },
+
+      {
+        "name": "Nagesh",
+        "type": "Student",
+        "comment": "The faculty members are incredibly supportive and always willing to help whenever I had doubts. The study materials, practice questions, and revision sessions made learning much easier. The encouragement I received from my teachers motivated me to work harder and perform better."
+      },
+
+      {
+        "name": "Rishbal",
+        "type": "Student",
+        "comment": "What I appreciate most about SmartLearn Academy is the personalized attention given to every student. The small class sizes allowed me to interact with teachers freely and improve my understanding of Mathematics and Science. My confidence in these subjects has grown tremendously."
+      },
+
+      {
+        "name": "Mrs. Remya",
+        "type": "Parent",
+        "comment": "We have seen a remarkable improvement in our daughter's academic performance since joining SmartLearn Academy. The teachers are dedicated, approachable, and genuinely care about each student's success. We are extremely satisfied with the quality of education provided."
+      },
+
+      {
+        "name": "Mr. Saji",
+        "type": "Parent",
+        "comment": "The academy maintains excellent communication with parents and regularly updates us about our child's progress. The structured teaching approach and continuous assessments have helped my son become more disciplined and focused in his studies."
+      },
+
+      {
+        "name": "Mr. Sreelal",
+        "type": "Parent",
+        "comment": "SmartLearn Academy provides a positive and motivating learning environment. The faculty members are highly experienced, and their commitment to helping students succeed is clearly visible. I would highly recommend this academy to any parent seeking quality education for their child."
+          
+      }
+
+    ]
+
+  }
+}
