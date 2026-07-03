@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Testimonials</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<nav>
+
+<a href="index.html">Home</a>
+
+<a href="about.html">About Us</a>
+
+<a href="courses.html">Courses</a>
+
+<a href="faculty.html">Faculty</a>
+
+<a href="demo.html">Demo Classes</a>
+
+<a href="testimonials.html">Testimonials</a>
+
+<a href="contact.html">Contact Us</a>
+
+</nav>
+
+
+
+<section class="testimonial-header">
+
+    <h1>Testimonials</h1>
+
+</section>
+
+<section class="student-testimonials">
+
+<h2>Student Testimonials</h2>
+
+<div class="testimonial-container"
+id="student-testimonials"></div>
+
+</section>
+
+<section class="parent-testimonials">
+
+<h2>Parent Testimonials</h2>
+
+<div class="testimonial-container"
+id="parent-testimonials"></div>
+
+</section>
+
+<section class="success-stories">
+
+    <h2>Success Stories</h2>
+
+    <div class="success-container">
+
+        <div class="success-card">
+            <h3>95% Success Rate</h3>
+            <p>Our students consistently achieve outstanding results in school and board examinations through dedicated guidance and structured learning programs.</p>
+        </div>
+
+        <div class="success-card">
+            <h3>500+ Students Trained</h3>
+            <p>Over the years, SmartLearn Academy has successfully mentored and guided hundreds of students toward academic excellence and personal growth.</p>
+        </div>
+
+        <div class="success-card">
+            <h3>20+ Experienced Educators</h3>
+            <p>Our team of qualified teachers brings years of teaching experience and subject expertise, ensuring every student receives the best possible support.</p>
+        </div>
+
+    </div>
+
+</section>
+
+<!-- Feedback Section -->
+
+<section class="feedback-section">
+
+    <h2>Share Your Experience With Us</h2>
+
+    <p class="feedback-subtitle">
+        We value your feedback and would love to hear about your learning journey with SmartLearn Academy.
+    </p>
+
+    <form class="feedback-form" onsubmit="return validateFeedbackForm()">
+
+        <input
+            type="text"
+            id="feedbackName"
+            placeholder="Your Name"
+            required>
+
+        <input
+            type="email"
+            id="feedbackEmail"
+            placeholder="Your Email"
+            required>
+
+        <select id="feedbackCategory" required>
+
+            <option value="">
+                Select Category
+            </option>
+
+            <option>
+                Student
+            </option>
+
+            <option>
+                Parent
+            </option>
+
+        </select>
+
+        <textarea
+            rows="6"
+            id="feedbackMessage"
+            placeholder="Write your feedback here..."
+            required></textarea>
+
+        <button type="submit">
+            Submit Feedback
+        </button>
+
+    </form>
+
+</section>
+<footer>
+
+<p>SmartLearn Academy</p>
+
+<p>Email: info@smartlearn.com</p>
+
+<p>Phone: +971 50 000 0000</p>
+
+<p>© 2026 SmartLearn Academy. All Rights Reserved.</p>
+
+</footer>
+
+<script src="js/validation.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
